@@ -1,4 +1,6 @@
-
+## NOTES
+Going forward any CTFS I do will be posted here for write ups
+---
 # CTF Writeups
 
 Collection of detailed solutions and write-ups from various Capture the Flag (CTF) challenges. These documents showcase my skills in penetration testing, vulnerability exploitation, and cybersecurity problem-solving. Each write-up provides step-by-step insights into real-world hacking scenarios.
@@ -31,7 +33,7 @@ Some of the common tools and techniques used in these write-ups include:
 
 ## 📝 Writeups
 
--- W.I.P
+## W.I.P
 - [Challenge 1](link_to_writeup) - 
 - [Challenge 2](link_to_writeup) - 
 - [Challenge 3](link_to_writeup) -
