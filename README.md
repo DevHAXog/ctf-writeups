@@ -31,10 +31,11 @@ Some of the common tools and techniques used in these write-ups include:
 
 ## 📝 Writeups
 
-- [Challenge 1](link_to_writeup) - Brief description of the challenge and solution.
-- [Challenge 2](link_to_writeup) - Brief description of the challenge and solution.
-- [Challenge 3](link_to_writeup) - Brief description of the challenge and solution.
-
+-- W.I.P
+- [Challenge 1](link_to_writeup) - 
+- [Challenge 2](link_to_writeup) - 
+- [Challenge 3](link_to_writeup) -
+- 
 ## 🔐 Learn & Contribute
 
 Feel free to explore, learn, and contribute! Pull requests, suggestions, and any improvements are always welcome.
