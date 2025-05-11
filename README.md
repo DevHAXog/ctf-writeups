@@ -1,5 +1,7 @@
 ## NOTES
+
 Going forward any CTFS I do will be posted here for write ups
+
 ---
 # CTF Writeups
 
